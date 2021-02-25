@@ -33,7 +33,7 @@ Las siguientes son las personas (sin ningún orden específico) que han contribu
 |-------------|--------|--------|
 | leisurelicht | [leisurelicht](https://github.com/leisurelicht) | [Chino](https://github.com/leisurelicht/wtfpython-cn) |
 | vuduclyunitn | [vuduclyunitn](https://github.com/vuduclyunitn) | [Vietnamita](https://github.com/vuduclyunitn/wtfptyhon-vi) |
-| JoseDeFreitas | [JoseDeFreitas](https://github.com/JoseDeFreitas) | [Español](https://github.com/JoseDeFreitas/wtfpython-es)
+| José De Freitas | [JoseDeFreitas](https://github.com/JoseDeFreitas) | [Español](https://github.com/JoseDeFreitas/wtfpython-es)
 
 ¡Muchas gracias por su tiempo y por hacer que wtfpython sea mejor! :smile:
 
